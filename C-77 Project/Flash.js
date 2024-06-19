@@ -1,0 +1,14 @@
+var first_name = "Ranbir";
+var last_name = "Kapoor";
+var full_name = first_name.concat(last_name);
+console.log(full_name);
+var a = 10;
+var b = 5;
+var sum = a+b;
+console.log(sum);
+var multi = a*b;
+console.log(multi);
+var sub = a-b;
+console.log(sub);
+var div = a/b;
+console.log(div);
